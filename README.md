@@ -33,7 +33,6 @@
 - [🧰 Tech Stack](#-tech-stack)
 - [💾 Data Fetching](#-data-fetching)
 - [🔐 Security & Persistence](#-security--persistence)
-- [🚀 Future Scope](#-future-scope)
 - [🔗 Links](#-links)
 - [👨‍💻 Author](#author)
 
