@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/ESLint-Code_Quality-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-Code_Format-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
   <img src="https://img.shields.io/badge/LocalStorage-Persistence-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON_API-https://fakestoreapi.com-000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 ## 📚 Table of Contents
@@ -54,17 +53,40 @@ Whether you're switching from a clean minimalist view to a playful card-based la
 - Clean, horizontal layout
 - Spacious whitespace
 
+**Web View:**  
+![Minimalist Web](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-minimalistic-web.png?updatedAt=1754247419457)
+
+**Mobile View:**  
+![Minimalist Mobile](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-minimalistic-mobile.png?updatedAt=1754247418791)
+
+---
+
 ### 🌑 Theme 2 – Dark Sidebar
 - Full dark mode
 - Serif typography
 - Vertical sidebar layout
 - High contrast elements
 
+**Web View:**  
+![Dark Sidebar Web](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-dark-web.png?updatedAt=1754247419719)
+
+**Mobile View:**  
+![Dark Sidebar Mobile](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-dark-mobile.png?updatedAt=1754247418800)
+
+---
+
 ### 🎨 Theme 3 – Colorful & Playful
 - Bright palette
 - "Pacifico" playful font
 - Card-based grid system
 - Unique button styles & shadows
+
+**Web View:**  
+![Colorful Web](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-colorful-web.png?updatedAt=1754247419925)
+
+**Mobile View:**  
+![Colorful Mobile](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-colorful-mobile.png?updatedAt=1754247419329)
+
 
 ## 🧩 Features
 
@@ -108,14 +130,6 @@ Product data is fetched from [FakeStoreAPI](https://fakestoreapi.com/products) o
 - `localStorage` is used to persist theme selection between reloads
 - Routes and theme states are managed securely with type-safe structures
 - Minimal external dependencies for better control over styling and logic
-
-## 🚀 Future Scope
-
-- 🔓 Auth module with OAuth & protected routes
-- 🛒 Add-to-cart and checkout flow
-- 🌐 i18n support (multi-language)
-- 🌙 Toggle between light/dark mode independently
-- 🎭 Custom theme builder using user inputs
 
 ## 🔗 Links
 
