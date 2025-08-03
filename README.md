@@ -48,44 +48,39 @@ Whether you're switching from a clean minimalist view to a playful card-based la
 ## 🎨 Themes Overview
 
 ### 🌟 Theme 1 – Minimalist (Default)
-- Light background
-- Sans-serif font
-- Clean, horizontal layout
-- Spacious whitespace
+- Light background  
+- Sans-serif font  
+- Clean, horizontal layout  
+- Spacious whitespace  
 
-**Web View:**  
-![Minimalist Web](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-minimalistic-web.png?updatedAt=1754247419457)
-
-**Mobile View:**  
-![Minimalist Mobile](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-minimalistic-mobile.png?updatedAt=1754247418791)
+| Web View                                                                                                     | Mobile View                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ![Minimalist Web](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-minimalistic-web.png?updatedAt=1754247419457) | ![Minimalist Mobile](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-minimalistic-mobile.png?updatedAt=1754247418791) |
 
 ---
 
 ### 🌑 Theme 2 – Dark Sidebar
-- Full dark mode
-- Serif typography
-- Vertical sidebar layout
-- High contrast elements
+- Full dark mode  
+- Serif typography  
+- Vertical sidebar layout  
+- High contrast elements  
 
-**Web View:**  
-![Dark Sidebar Web](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-dark-web.png?updatedAt=1754247419719)
-
-**Mobile View:**  
-![Dark Sidebar Mobile](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-dark-mobile.png?updatedAt=1754247418800)
+| Web View                                                                                                 | Mobile View                                                                                                    |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ![Dark Sidebar Web](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-dark-web.png?updatedAt=1754247419719) | ![Dark Sidebar Mobile](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-dark-mobile.png?updatedAt=1754247418800) |
 
 ---
 
 ### 🎨 Theme 3 – Colorful & Playful
-- Bright palette
-- "Pacifico" playful font
-- Card-based grid system
-- Unique button styles & shadows
+- Bright palette  
+- "Pacifico" playful font  
+- Card-based grid system  
+- Unique button styles & shadows  
 
-**Web View:**  
-![Colorful Web](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-colorful-web.png?updatedAt=1754247419925)
+| Web View                                                                                                   | Mobile View                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ![Colorful Web](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-colorful-web.png?updatedAt=1754247419925) | ![Colorful Mobile](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-colorful-mobile.png?updatedAt=1754247419329) |
 
-**Mobile View:**  
-![Colorful Mobile](https://ik.imagekit.io/clynyzjux/theme-switcher-app/theme-colorful-mobile.png?updatedAt=1754247419329)
 
 
 ## 🧩 Features
