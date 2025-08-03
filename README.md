@@ -128,7 +128,7 @@ Product data is fetched from [FakeStoreAPI](https://fakestoreapi.com/products) o
 ## 🔗 Links
 
 -   [GitHub Repo](https://github.com/ShivamManiMaurya/multi-theme-switcher-app)
--   [Live Site](https://multi-theme-switcher.vercel.app)
+-   [Live Site](https://multi-theme-switcher-rose.vercel.app)
 
 ## 👨‍💻 Author
 
