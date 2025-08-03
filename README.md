@@ -4,9 +4,9 @@
 
 <p align="center">
   <!-- Project Status -->
-  <img src="https://img.shields.io/github/last-commit/ShivamManiMaurya/multi-theme-switcher-app?style=for-the-badge" alt="Last Commit" />
-  <img src="https://img.shields.io/github/languages/top/ShivamManiMaurya/multi-theme-switcher-app?label=TypeScript&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/count/ShivamManiMaurya/multi-theme-switcher-app?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/last-commit/ShivamManiMaurya/paytm_app?style=for-the-badge" alt="Last Commit" />
+  <img src="https://img.shields.io/github/languages/top/ShivamManiMaurya/paytm_app?label=TypeScript&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/count/ShivamManiMaurya/paytm_app?style=for-the-badge&color=blue" />
   <br/>
 
   <!-- Frameworks & Tools -->
